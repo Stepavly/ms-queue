@@ -1,2 +1,2 @@
 # ms-queue
-Simple concurrent queue C++ implementation.
+Simple Michael-Scott Queue queue C++ implementation including sequential consistency tests.
